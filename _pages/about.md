@@ -13,9 +13,6 @@ About Me
 =====
 Hi, I'm Hasan. I'm a PhD student in Mathematics at the University of Virginia under Ken Ono. My interests lie in number theory, modular and harmonic Maass forms, and arithmetic statistics.
 
-Contact
-====
-
 Email
 ----
 hs7gy@virginia.edu
