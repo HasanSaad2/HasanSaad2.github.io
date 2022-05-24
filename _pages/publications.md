@@ -18,8 +18,6 @@ author_profile: true
 Preprints
 ====
 
-Is this thing working?
-
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}
