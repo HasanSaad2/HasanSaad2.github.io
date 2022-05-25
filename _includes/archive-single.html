@@ -43,6 +43,9 @@
         {% elsif post.collection == 'preprints' %}
 
         {% elsif post.collection == 'inPreparation' %}
+		
+        {% elsif post.collection == 'talks' %}
+
 
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
