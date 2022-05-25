@@ -190,6 +190,10 @@ collections:
   preprints:
     output: true
     permalink: /:collection/:path/
+  inPreparation:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
