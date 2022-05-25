@@ -7,6 +7,6 @@ date:
 venue: ''
 paperurlArxiv: 'https://arxiv.org/abs/2108.09560'
 paperurlPublished: ''
-citation: '(with Ken Ono and Neelam Sakia)'
+citation: ''
 ---
 
