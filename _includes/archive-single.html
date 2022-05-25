@@ -60,9 +60,8 @@
       {{ post.citation }} <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a>
     {% elsif post.paperurlArxiv %}
       <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a>
-    {% elsif post.paperurlArxiv and post.paperurlPublished%}
+    {% elsif post.paperurlArxiv and post.paperurlPublished %}
       <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a> <a href="{{ post.paperurlPublished }}"><u>(Published Version)</u></a>
-
     {% endif %}
 
   </article>
