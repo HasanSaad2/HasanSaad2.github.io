@@ -56,10 +56,10 @@
     
     {% if post.citation and post.paperurlArxiv and post.paperurlPublished %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a> <a href="{{ post.paperurlPublished }}"><u>(Published Version)</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+    {% elsif post.citation and post.paperurlArxiv %}
+      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a></p>
+    {% elsif post.paperurlArxiv %}
+      <p><a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a></p>
     {% endif %}
 
   </article>
