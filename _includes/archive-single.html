@@ -60,6 +60,9 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a></p>
     {% elsif post.paperurlArxiv %}
       <p><a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a></p>
+    {% elsif post.paperurlArxiv and post.paperurlPublished%}
+      <p><a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a> <a href="{{ post.paperurlPublished }}"><u>(Published Version)</u></a></p>
+
     {% endif %}
 
   </article>
