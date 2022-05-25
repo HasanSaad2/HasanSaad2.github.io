@@ -19,5 +19,4 @@ hs7gy@virginia.edu
 
 Office
 ----
-Kerchof Hall 123
-
+123 Kerchof Hall
