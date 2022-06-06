@@ -69,6 +69,8 @@
       {{post.collaborators}} <a href="{{ post.paperurlArxiv }}"><u>(arxiv)</u></a> <a href="{{ post.paperurlPublished }}"><u>(Published Version)</u></a>
     {% elsif post.collaborators and post.citation %}
       {{post.collaborators}} {{ post.citation }}
+	{% elsif post.citation %}
+	  {{post.citation}}
     {% endif %}
 
   </article>
