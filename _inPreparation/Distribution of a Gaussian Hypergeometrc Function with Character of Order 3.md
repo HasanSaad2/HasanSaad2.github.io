@@ -2,7 +2,7 @@
 title: "To be determined"
 collection: inPreparation
 venue: ''
-collaborators:''
-citation: '(with Neelam Saikia and Sudhir Pujahari, in Preparation)'
+collaborators:'(with Neelam Saikia and Sudhir Pujahari)'
+citation: '(in Preparation)'
 ---
 
