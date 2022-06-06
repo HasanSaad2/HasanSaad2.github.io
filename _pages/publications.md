@@ -11,14 +11,18 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% include base_path %}
 
-Preprints
-====
-
-{% for post in site.preprints reversed %}
+{% for post in site.inPreparation reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
 
