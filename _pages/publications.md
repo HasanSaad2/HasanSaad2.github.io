@@ -15,15 +15,15 @@ Papers
 ====
 <ol>
 
-{% for post in site.publications reversed %}
+{% for post in site.publications %}
   <li>{% include archive-single.html %}</li>
 {% endfor %}
 
-{% for post in site.preprints reversed %}
+{% for post in site.preprints %}
   <li>{% include archive-single.html %}</li>
 {% endfor %}
 
-{% for post in site.inPreparation reversed %}
+{% for post in site.inPreparation %}
   <li>{% include archive-single.html %}</li>
 {% endfor %}
 
