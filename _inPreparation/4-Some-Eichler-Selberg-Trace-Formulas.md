@@ -3,5 +3,5 @@ title: "Some Eichler-Selberg Trace Formulas"
 collection: inPreparation
 venue: ''
 collaborators: '(with <a href="https://uva.theopenscholar.com/ken-ono/" target=_blank>Ken Ono</a>)'
-citation: '(Submitted)'
+citation: '(Accepted for Publication)'
 ---
