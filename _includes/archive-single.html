@@ -65,8 +65,8 @@
       {{post.collaborators}} <a href="{{ post.paperurlArxiv }}" target=_blank><u>(arxiv)</u></a>
     {% elsif post.collaborators and post.paperurlArxiv and post.paperurlPublished %}
       {{post.collaborators}} <a href="{{ post.paperurlArxiv }}" target=_blank><u>(arxiv)</u></a> <a href="{{ post.paperurlPublished }}" target=_blank><u>(Published Version)</u></a>
-    {% elsif post.citation and post.paperurlArxiv %}
-      {{ post.citation }} <a href="{{ post.paperurlArxiv }}" target=_blank><u>(arxiv)</u></a>
+    {% elsif post.citation and post.paperurlPublished %}
+      {{ post.citation }} <a href="{{ post.paperurlPublished }}" target=_blank><u>(Publisher's Version)</u></a>
 
     {% elsif post.paperurlPublished %}
       <a href="{{ post.paperurlPublished }}" target=_blank><u>(Published Version)</u></a>
