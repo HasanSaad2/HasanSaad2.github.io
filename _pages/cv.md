@@ -6,5 +6,5 @@ redirect_from:
   - /resume
 ---
 
-<object data="../files/paper1.pdf" height="100%" width="100%" type='application/pdf'></object>
+<object data="../files/paper1.pdf" height="100%" width="150%" type='application/pdf'></object>
 
