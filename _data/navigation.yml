@@ -8,4 +8,8 @@ main:
 
   - title: "Teaching"
     url: /teaching/
+  - title: "Machine Learning and Data Science"
+    url: /dsml/
+  - title: "CV"
+    url: /cv/
     
