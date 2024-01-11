@@ -8,6 +8,7 @@ redirect_from:
 
 #{% include base_path %}
 
-<a href="files/paper1.pdf" class="image fit">Here is my CV.</a>
 
+
+<object data="../files/paper1.pdf" width="1000" height="1000" type='application/pdf'></object>
 
