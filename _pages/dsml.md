@@ -8,7 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-<object data="../files/paper1.pdf" type='application/pdf'></object>
-
+TEST TEST

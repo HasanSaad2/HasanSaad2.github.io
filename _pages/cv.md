@@ -10,5 +10,5 @@ redirect_from:
 
 
 
-<object data="../files/paper1.pdf" type='application/pdf'></object>
+<object data="../files/paper1.pdf" height="100%" width="100%" type='application/pdf'></object>
 
