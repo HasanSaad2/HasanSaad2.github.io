@@ -1,5 +1,4 @@
 ---
-layout: custom
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,11 +6,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
 <a href="files/paper1.pdf" class="image fit"></a>
 
-<!--Education
+<!---Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
