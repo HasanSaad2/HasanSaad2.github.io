@@ -11,7 +11,7 @@ redirect_from:
 
 About Me
 =====
-Hi, I'm Hasan. I'm a PhD student in Mathematics at the University of Virginia under Ken Ono. My interests lie in number theory, modular and harmonic Maass forms, and arithmetic statistics.
+Hi, I'm Hasan. I'm a PhD student in Mathematics at the University of Virginia under Ken Ono. My interests lie in number theory, modular and harmonic Maass forms, and arithmetic statistics. Moreover, in addition to my research, I have experience in Machine Learning and Data Science. More precisely, through the Data Science Boot Camp at the Erdős Institute, I developed a convolutional neural network model to detect AI-generated images.
 
 Email
 ----
