@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-I have completed the Erdős Institute Data Science program and obtained a certificate which can be found at <a href="https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/hasan-saad">Certificate Link</a>.
+I have completed the Erdős Institute Data Science program and obtained a certificate which can be found at <a href="https://www.erdosinstitute.org/certificates/fall-2023/data-science-boot-camp/hasan-saad">this link</a>.
 
 My Data Science Projects
 ----
