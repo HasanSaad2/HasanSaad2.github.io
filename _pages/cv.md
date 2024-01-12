@@ -6,5 +6,5 @@ redirect_from:
   - /resume
 ---
 
-  <meta http-equiv='refresh' content='0; URL=../files/paper1.pdf'>
+  <meta http-equiv='refresh' content='0; URL=../files/HS_CV.pdf'>
 
