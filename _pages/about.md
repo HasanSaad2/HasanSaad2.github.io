@@ -17,7 +17,7 @@ In Fall 2024, I will start as a postdoctoral scholar at <a href = "https://www.m
 
 PhD Defense Poster
 ----
-<a href = "/files/Poster.pdf">Pdf File</a>
+<a href = "/files/Poster.pdf">PDF Link</a>
 
 Email
 ----
