@@ -1,5 +1,5 @@
 ---
-title: "Rankin-Cohen recurrence relations for p(n)."
+title: "Pentagonal Number Recurrence Relations for p(n)."
 collection: preprints
 venue: ''
 collaborators: ''
