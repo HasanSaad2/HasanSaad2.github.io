@@ -4,6 +4,6 @@ collection: preprints
 venue: ''
 paperurlArxiv: 'https://arxiv.org/abs/2411.16968'
 collaborators: ''
-citation: '<a href="https://kg583.github.io/math/" target=_blank>Gomez K.</a>, <a href="https://uva.theopenscholar.com/ken-ono/" target=_blank> Ono K.</a>, Saad H., <a href="https://sites.google.com/view/ajitsingh04/home" target=_blank>Singh A.</a>, Advances in Mathematics.'
+citation: '<a href="https://kg583.github.io/math/" target=_blank>Gomez K.</a>, <a href="https://uva.theopenscholar.com/ken-ono/" target=_blank> Ono K.</a>, Saad H., <a href="https://sites.google.com/view/ajitsingh04/home" target=_blank>Singh A.</a>, Advances in Mathematics 2025;474, Paper No. 110308.'
 paperurlPublished: 'https://www.sciencedirect.com/science/article/abs/pii/S0001870825002063'
 ---
